@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^10.4.0",
+    "swup": "^4.4.2"
+  }
+}

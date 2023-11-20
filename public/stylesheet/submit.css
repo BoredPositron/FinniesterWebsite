@@ -1,0 +1,15 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2e4c68;
+    flex-direction: column;
+    font-family: 'Poppins','sans-serif';
+    color: #d8784e;
+    font-size: 30px;
+}
+
+#animation-container{
+    width: 40%;
+}
